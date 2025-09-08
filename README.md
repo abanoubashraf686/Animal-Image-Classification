@@ -62,10 +62,11 @@ We experimented with the following deep learning models:
 - Model fine-tuning, experimentation with hyperparameters, and evaluation.  
 - Practical understanding of training, validation, and testing pipelines in PyTorch/TensorFlow.  
 
-We gained a lot of experience through this project, and it helped us achieve **1st place** in our university Kaggle course competition! 🏆  
+We gained valuable hands-on experience through this project, which helped us secure **1st place** in our university Kaggle course competition! 🏆  
 
-![Competition Winning](https://www.kaggle.com/t/885dbe904a9941c9b0f8bd6c613360ec)
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d7af87ee-7f82-4ca4-a485-39f8ac0a4daa" />
+- [View Competition Details](https://www.kaggle.com/t/885dbe904a9941c9b0f8bd6c613360ec)  
+
+![Competition Winning](https://github.com/user-attachments/assets/d7af87ee-7f82-4ca4-a485-39f8ac0a4daa)
 
 ---
 
