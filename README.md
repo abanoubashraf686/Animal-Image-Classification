@@ -69,6 +69,20 @@ We gained valuable hands-on experience through this project, which helped us sec
 ![Competition Winning](https://github.com/user-attachments/assets/d7af87ee-7f82-4ca4-a485-39f8ac0a4daa)
 
 ---
+## References 📚
+
+- **Inception V3**  
+  [arXiv:1512.00567](https://arxiv.org/pdf/1512.00567.pdf)
+
+- **ResNet**  
+  [ResearchGate](https://www.researchgate.net/figure/The-proposed-residual-network-architecture-Conv-pad-Batch-Norm-and-ReLU-indicates_fig1_358047443)
+  [ResearchGate](https://www.researchgate.net/figure/ResNet-Architecture-He-et-al-2016_fig3_393288559)
+
+- **MobileViT**  
+  [Kornia MobileViT](https://kornia.readthedocs.io/en/latest/models/vit_mobile.html)
+
+
+---
 
 ## License
 
