@@ -31,7 +31,7 @@ Since the original dataset was small, we collected additional images from multip
 We experimented with the following deep learning models:  
 
 1. **Inception V3**  
-<img width="1069" height="416" alt="Inception V3" src="https://github.com/user-attachments/assets/1073a296-3652-448a-a80e-61425112c33d" />
+<img width="960" height="426" alt="image" src="https://github.com/user-attachments/assets/f5417439-69e8-4ce1-a50d-e170e66f9f90" />
 
 2. **ResNet**  
 <img width="611" height="603" alt="ResNet 50" src="https://github.com/user-attachments/assets/0f3dfd9f-f49f-47c7-8336-a3156fa0e9c9" />
